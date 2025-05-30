@@ -3,7 +3,7 @@
 
 # Hello there 👋
 
-My name is Hasan and I'm a **Sophomore studying Software Development** with a passion for all things code 💻  
+My name is Hasan and I'm a **software engineering student** with a passion for all things code 💻  
 Every day, I’m learning something new — building cool stuff, breaking it (sometimes on purpose 👀), and leveling up as a developer.
 
 ---
