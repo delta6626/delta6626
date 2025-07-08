@@ -3,8 +3,7 @@
 
 # Hello there 👋
 
-My name is Hasan and I'm a **software engineering student** with a passion for all things code 💻  
-Every day, I’m learning something new — building cool stuff, breaking it (sometimes on purpose 👀), and leveling up as a developer.
+My name is Hasan and I'm a software engineering student with a passion for all things code 💻  
 
 ---
 
@@ -21,10 +20,10 @@ I'm coding **every single day** to sharpen my skills, grow my GitHub portfolio, 
 
 Here’s a quick rundown of the tech I’ve been working with:
 
-- **Languages**: Java, Python, JavaScript, HTML, CSS  
-- **Frameworks & Libraries**: React, TailwindCSS, Node.js, Express  
+- **Languages**: C, Java, Python, JavaScript, HTML, CSS
+- **Frameworks & Libraries**: React, TailwindCSS, Node.js, Express, DaisyUI  
 - **Databases & Backend**: Firebase, Supabase, MySQL  
-- **Tools**: Git, GitHub, Figma
+- **Tools**: Git, GitHub, Figma, Vercel
 
 ...just to name a few. Always exploring more!
 
