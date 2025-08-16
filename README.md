@@ -20,7 +20,7 @@ I'm coding **every single day** to sharpen my skills, grow my GitHub portfolio, 
 
 Here’s a quick rundown of the tech I’ve been working with:
 
-- **Languages**: C, Java, Python, JavaScript, HTML, CSS
+- **Languages**: C, Java, Python, TypeScript, JavaScript, HTML, CSS
 - **Frameworks & Libraries**: React, TailwindCSS, Node.js, Express, DaisyUI  
 - **Databases & Backend**: Firebase, Supabase, MySQL  
 - **Tools**: Git, GitHub, Figma, Vercel
