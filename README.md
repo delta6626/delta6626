@@ -3,16 +3,24 @@
 
 # Hello there 👋
 
-My name is Hasan and I'm a software engineering student with a passion for all things code 💻  
+My name is Hasan and I'm a software engineering student with a passion for all things code.
 
 ---
 
 ## 🚀 What I'm up to
 
-🎯 Currently doing a **365 Days of Code** challenge!  
-I'm coding **every single day** to sharpen my skills, grow my GitHub portfolio, and have some fun along the way.
+Currently, I'm doing a **365 Days of Code** challenge.
 
-🔗 [Check out the challenge here!](https://github.com/delta6626/365-days-of-code)
+Starting from April 17th, 2025, I have been coding every single day to sharpen my skills, grow my GitHub portfolio, and have some fun along the way.
+
+A variety of projects have been created so far in this challenge. Some of them are small and playful, while some are production applications with real users.
+
+1) [365 Days of Code - Main repository containing small projects](https://github.com/delta6626/365-days-of-code). It contains a daily log / status update.
+2) Nebula notes - A FOSS note taking application.
+   [Github Repo](https://github.com/delta6626/nebula).
+   [Hosted version](https://nebulanotes.live).
+3) PartnerPair - A co-founder matching platform inspired by [Starthawk](https://starthawk.io). Still a WIP.
+   [Github Repo](https://github.com/delta6626/partnerpair).
 
 ---
 
@@ -21,19 +29,11 @@ I'm coding **every single day** to sharpen my skills, grow my GitHub portfolio, 
 Here’s a quick rundown of the tech I’ve been working with:
 
 - **Languages**: C, Java, Python, TypeScript, JavaScript, HTML, CSS
-- **Frameworks & Libraries**: React, TailwindCSS, Node.js, Express, DaisyUI  
-- **Databases & Backend**: Firebase, Supabase, MySQL  
+- **Frameworks & Libraries**: React, Node.js, Tanstack, Express, TailwindCSS, DaisyUI, 
+- **Databases & Backend**: Firebase (Authentication, Firestore, Cloud functions and Storage), Supabase, MySQL
 - **Tools**: Git, GitHub, Figma, Vercel
 
-...just to name a few. Always exploring more!
-
----
-
-## 🌱 Currently learning
-
-- How to write cleaner, more maintainable code  
-- Building out full-stack projects from idea to deployment  
-- Getting into open source and learning how to contribute meaningfully
+...just to name a few. Always exploring more.
 
 ---
 
@@ -48,7 +48,7 @@ Open to collabs, feedback, or just a quick chat:
 
 ---
 
-Thanks for stopping by 🙌  
-Feel free to check out my projects and follow along with the challenge!
+Thanks for stopping by.  
+Feel free to check out my projects and follow along with the challenge.
 
 ---
