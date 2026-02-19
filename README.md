@@ -1,7 +1,7 @@
 
 ---
 
-# Hello there 👋
+# Hi 👋
 
 My name is Hasan and I'm a software engineering student with a passion for all things code.
 
