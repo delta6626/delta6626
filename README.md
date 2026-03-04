@@ -16,11 +16,11 @@ Starting from April 17th, 2025, I have been coding every single day to sharpen m
 A variety of projects have been created so far in this challenge. Some of them are small and playful, while some are production applications with real users.
 
 1) [365 Days of Code - Main repository containing small projects](https://github.com/delta6626/365-days-of-code). It also contains a daily log / status update.
-2) Nebula notes - A FOSS note taking application.
-   [Github Repo](https://github.com/delta6626/nebula).
+2) Nebula notes - A FOSS note taking application.\
+   [Github Repo](https://github.com/delta6626/nebula).\
    [Hosted version](https://nebulanotes.live).
-3) PartnerPair - A co-founder matching platform inspired by [Starthawk](https://starthawk.io).
-   [Github Repo](https://github.com/delta6626/partnerpair).
+3) PartnerPair - A co-founder matching platform inspired by [Starthawk](https://starthawk.io).\
+   [Github Repo](https://github.com/delta6626/partnerpair).\
    [Hosted version](https://partnerpair.vercel.app).
 
 ---
