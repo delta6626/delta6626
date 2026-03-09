@@ -19,7 +19,7 @@ A variety of projects have been created so far in this challenge. Some of them a
 2) Nebula notes - A FOSS note taking application.\
    [Github Repo](https://github.com/delta6626/nebula).\
    [Hosted version](https://nebulanotes.live).
-3) PartnerPair - A co-founder matching platform inspired by [Starthawk](https://starthawk.io).\
+3) PartnerPair - An open source co-founder matching platform inspired by [Starthawk](https://starthawk.io).\
    [Github Repo](https://github.com/delta6626/partnerpair).\
    [Hosted version](https://partnerpair.vercel.app).
 
