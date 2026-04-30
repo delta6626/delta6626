@@ -1,9 +1,9 @@
 # Hi 👋
-My name is Hasan and I'm a software engineering student who builds things.
+My name is Hasan and I'm a software engineering student who builds things. I've been writing code since middle school but the early stuff was too embarrassing
+to put on GitHub. This profile only reflects when I decided to stop messing around and start building things worth showing.
 
 ## 🚀 What I've been up to
-
-I just completed a **365 Days of Code** challenge — coding every single day from April 17th, 2024 to April 16th, 2025.
+I recently completed a **365 Days of Code** challenge — coding every single day from April 17th, 2025 to April 17th, 2026.
 
 A variety of projects came out of it. Some small and playful, some production applications with real users.
 
