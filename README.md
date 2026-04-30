@@ -1,8 +1,6 @@
 # Hi 👋
 My name is Hasan and I'm a software engineering student who builds things.
 
----
-
 ## 🚀 What I've been up to
 
 I just completed a **365 Days of Code** challenge — coding every single day from April 17th, 2024 to April 16th, 2025.
