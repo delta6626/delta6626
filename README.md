@@ -13,7 +13,8 @@ A variety of projects came out of it. Some small and playful, some production ap
 3) **PartnerPair** - An open source co-founder matching platform.
    [Github Repo](https://github.com/delta6626/partnerpair) · [Live](https://partnerpair.vercel.app)
 4) **Vowed** - A public commitment platform. Make a vow. Set a deadline. The world is watching.
-   Closed source for now. Coming soon.
+   [Github Repo](https://github.com/delta6626/vowed) · Live version coming soon.
+   
 
 The challenge is over. The building isn't.
 
