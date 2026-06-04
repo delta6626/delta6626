@@ -1,48 +1,53 @@
 # Hi 👋
-My name is Hasan and I'm a software engineering student who builds things. I've been writing code since middle school but the early stuff was too embarrassing
-to put on GitHub. This profile only reflects when I decided to stop messing around and start building things worth showing.
 
-## 🚀 What I've been up to
-I recently completed a **365 Days of Code** challenge — coding every single day from April 17th, 2025 to April 17th, 2026.
+I'm Hasan, a software engineering student.
 
-A variety of projects came out of it. Some small and playful, some production applications with real users.
+I've been programming since middle school. Most of what I wrote back then isn't something I'd want attached to my name today, so this profile mostly reflects the point where I started taking software development more seriously and building projects I was proud to share.
 
-1) [365 Days of Code - Main repository with daily log and small projects](https://github.com/delta6626/365-days-of-code)
-2) **Nebula Notes** - A FOSS note-taking application.
-   [Github Repo](https://github.com/delta6626/nebula) · [Live](https://nebulanotes.live)
-3) **PartnerPair** - An open source co-founder matching platform.
-   [Github Repo](https://github.com/delta6626/partnerpair) · [Live](https://partnerpair.vercel.app)
-4) **Vowed** - A public commitment platform. Make a vow. Set a deadline. The world is watching.
-   [Github Repo](https://github.com/delta6626/vowed) ·[Live](https://tryvowed.vercel.app/)
-   
+## 🚀 Recent work
 
-The challenge is over. The building isn't.
+From April 17, 2025 to April 17, 2026, I completed a **365 Days of Code** challenge, writing code every day for a full year.
 
----
+The result was a mix of experiments, small utilities, and a few larger projects that people actually use:
 
-## 🛠️ Tech I've worked with
+1. **365 Days of Code** — Daily log and collection of smaller projects
+   GitHub: https://github.com/delta6626/365-days-of-code
 
-**Languages**: C, Java, Python, TypeScript, JavaScript, HTML, CSS
+2. **Nebula Notes** — An open-source note-taking application
+   GitHub: https://github.com/delta6626/nebula
+   Live: https://nebulanotes.live
 
-**Frameworks & Libraries**: React, Next.js, Node.js, Express, TanStack Query, TailwindCSS, DaisyUI, Motion
+3. **PartnerPair** — An open-source platform for finding co-founders and collaborators
+   GitHub: https://github.com/delta6626/partnerpair
+   Live: https://partnerpair.vercel.app
 
-**Auth & Backend Services**: Clerk, Firebase (Auth, Firestore, Functions, Storage), Supabase
+4. **Vowed** — A platform for making public commitments with deadlines
+   GitHub: https://github.com/delta6626/vowed
+   Live: https://tryvowed.vercel.app
 
-**Databases**: Firestore, MySQL
-
-**Tools**: Git, GitHub, Figma, Vercel
-
-Always exploring more.
+I'm currently focused on building projects and learning from people who are better engineers than I am.
 
 ---
 
-## 📫 Let's connect
+## 🛠️ Technologies
 
-- ✉️ Email: [hasan04.asm@gmail.com](mailto:hasan04.asm@gmail.com)
-- 🐦 Twitter: [@delta6626](https://twitter.com/delta6626)
-- 💬 Discord: `@delta6626`
-- 🌐 Website: *coming soon*
+**Languages:** C, Java, Python, TypeScript, JavaScript, HTML, CSS
+
+**Frameworks & Libraries:** React, Next.js, Node.js, Express, TanStack Query, Tailwind CSS, DaisyUI, Motion
+
+**Auth & Backend Services:** Clerk, Firebase, Supabase
+
+**Databases:** Firestore, MySQL
+
+**Tools:** Git, GitHub, Figma, Vercel
 
 ---
 
-Thanks for stopping by.
+## 📫 Contact
+
+* Email: [hasan04.asm@gmail.com](mailto:hasan04.asm@gmail.com)
+* Twitter/X: @delta6626
+* Discord: @delta6626
+* Website: Coming soon
+
+Thanks for visiting.
