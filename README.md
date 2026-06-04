@@ -10,19 +10,19 @@ From April 17, 2025 to April 17, 2026, I completed a **365 Days of Code** challe
 
 The result was a mix of experiments, small utilities, and a few larger projects that people actually use:
 
-1. **365 Days of Code** — Daily log and collection of smaller projects
+1. **365 Days of Code** — Daily log and collection of smaller projects\
    GitHub: https://github.com/delta6626/365-days-of-code
 
-2. **Nebula Notes** — An open-source note-taking application
-   GitHub: https://github.com/delta6626/nebula
+2. **Nebula Notes** — An open-source note-taking application\
+   GitHub: https://github.com/delta6626/nebula \
    Live: https://nebulanotes.live
 
-3. **PartnerPair** — An open-source platform for finding co-founders and collaborators
-   GitHub: https://github.com/delta6626/partnerpair
+4. **PartnerPair** — An open-source platform for finding co-founders and collaborators\
+   GitHub: https://github.com/delta6626/partnerpair \
    Live: https://partnerpair.vercel.app
 
-4. **Vowed** — A platform for making public commitments with deadlines
-   GitHub: https://github.com/delta6626/vowed
+5. **Vowed** — A platform for making public commitments with deadlines\
+   GitHub: https://github.com/delta6626/vowed \
    Live: https://tryvowed.vercel.app
 
 I'm currently focused on building projects and learning from people who are better engineers than I am.
