@@ -15,7 +15,7 @@ The result was a mix of experiments, small utilities, and a few larger projects 
 
 2. **Nebula Notes** — An open-source note-taking application\
    GitHub: https://github.com/delta6626/nebula \
-   Live: https://nebulanotes.live
+   Live: https://trynebulanotes.vercel.app
 
 4. **PartnerPair** — An open-source platform for finding co-founders and collaborators\
    GitHub: https://github.com/delta6626/partnerpair \
