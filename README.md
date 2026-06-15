@@ -33,7 +33,7 @@ I'm currently focused on building projects and learning from people who are bett
 
 **Languages:** C, Java, Python, TypeScript, JavaScript, HTML, CSS
 
-**Frameworks & Libraries:** React, Next.js, Node.js, Express, TanStack Query, Tailwind CSS, DaisyUI, Motion
+**Frameworks & Libraries:** React Native, React, Next.js, Node.js, Express, TanStack Query, Tailwind CSS, DaisyUI, Motion
 
 **Auth & Backend Services:** Clerk, Firebase, Supabase
 
